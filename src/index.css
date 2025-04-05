@@ -1,0 +1,227 @@
+.main{
+    text-align: center;
+    border: double;
+}
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    
+    padding: 20px 4px 20px 4px;
+    row-gap: 20px;
+}
+
+.content{
+    width:40vw;
+    height:30vw;
+    border:black;
+}
+
+.child1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+#alignment{
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    column-gap: 20px;
+}
+#subc1{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    row-gap: 70px;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#subc2{
+    display:flex;
+    flex-wrap: wrap; 
+    justify-items: center;
+    justify-content: center;
+}
+
+#btn{
+
+    height: 45px;
+    padding: 2px 5px 2px 5px;
+    width: fit-content;
+    border: none;
+    font-size: 18px;
+    font-weight: 600;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#font{
+    display:flex;
+    flex-wrap:wrap;
+    column-gap: 70px;
+}
+
+#imgage{
+    height:70px;
+    width:70px;
+}
+
+#image{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    column-gap: 20px;
+}
+
+#red{
+    background-color: red;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+}
+
+#black{
+    background-color: black;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+}
+
+#subc3{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+#subc4{
+    display:flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    column-gap: 10px;
+    row-gap: 10px;
+}
+
+#grey{
+    background-color: grey;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+#darkred{
+    background-color: darkred;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+#orange{
+    background-color: orange;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+
+#green{
+    background-color: green;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+
+#yellow{
+    background-color: yellow;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+
+#brown{
+    background-color: brown;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+
+#beige{
+    background-color: beige;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+
+#blue{
+    background-color: blue;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+
+#purple{
+    background-color: purple;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+
+#cyan{
+    background-color: cyan;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+
+#teal{
+    background-color: teal;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+
+#silver{
+    background-color: silver;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+
+#gold{
+    background-color: gold;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+
+#bronze{
+    background-color: bronze;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
+
+
+#pink{
+    background-color:pink;
+    height:40px;
+    width:40px;
+    border-radius: 50%;
+    border: none;
+}
